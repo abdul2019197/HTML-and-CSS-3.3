@@ -1,0 +1,37 @@
+body{
+    background-color:#030336;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.container1{
+    display:flex;
+    color:white;
+    border: solid 1px gray;
+    width: 860px;
+    margin:auto;
+    margin-top: 120px;
+    padding : 20px;S
+
+}
+.container1 img{
+    height: 250px;
+    
+}
+.container2{
+    display: flex;
+    justify-content: space-between;
+    color:white;
+    height: 200px;
+    margin: auto;
+    width:900px;
+    padding:20px;
+    
+}
+.box{
+    border: solid 1px gray;
+    width:200px;
+    padding: 20px;
+    
+}
+p>a{
+    color: aqua;  
+}
